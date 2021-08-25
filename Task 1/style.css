@@ -1,0 +1,29 @@
+* {
+    margin: 0
+}
+div{
+ width: 100%;
+height: 200px;
+            
+}
+.text{
+ text-align: center;
+ 
+}
+.skills {
+    margin-top: 50px
+}
+.skills p{
+ margin-left: 8%;
+            
+}
+.skills img{
+ float: left;
+ 
+}
+.item {
+ float: left;
+ width: 45%;
+ height: 100%;
+ margin-left: 3%;
+}
